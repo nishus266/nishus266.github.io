@@ -27,7 +27,21 @@ background-color:#FC4445;
 opacity:.6;
 color:white;
 }
-
+.email{
+display:none;
+}
+.about{
+float:left;
+width:40%;
+margin-left:30px;
+display:inline-block;
+}
+.contact{
+float:left;
+width:40%;
+margin-left:30px;
+display:inline-block;
+}
 
 
 }
@@ -62,6 +76,18 @@ width:100%;
 background-color:#FC4445;
 opacity:.6;
 color:white;
+}
+.about{
+float:left;
+width:90%;
+margin-left:30px;
+display:inline-block;
+}
+.contact{
+float:left;
+width:90%;
+margin-left:30px;
+display:inline-block;
 }
 
 
